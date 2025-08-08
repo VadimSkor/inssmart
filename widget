@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inssmart Widget</title>
+</head>
+<body>
+    <script 
+        type="text/javascript"    
+        src="https://widgets.inssmart.ru/widgets/b2c-frame.loader.js"
+        data-id="inssmart-b2c"
+        data-origin="https://widgets.inssmart.ru"
+        data-product="/eosago"
+        data-token="47f00690-5b97-5281-bc65-2768667a9274"
+        data-secret="67858ea7-86a1-5c52-b663-fba2a81d3041">
+    </script>
+</body>
+</html>
