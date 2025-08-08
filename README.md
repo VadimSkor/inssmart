@@ -1,0 +1,2 @@
+# inssmart
+osago
